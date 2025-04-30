@@ -45,6 +45,9 @@ and built domain-driven services sharper than Mihawk’s blade.
 - 🚀 Orchestrated zero-downtime EKS upgrades like a true shinobi.
 - 📉 Drove cost savings by migrating to modern instance types and cutting log bloat.
 
+### <p align="center">⚙️ My development environment </p>
+
+
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
@@ -55,10 +58,11 @@ and built domain-driven services sharper than Mihawk’s blade.
 Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![AWS]([https://img.shields.io/badge/-AWS-0078D4?style=flat&logo=microsoft-azure&logoColor=white](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white))
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white))
 ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
   </td>
   <td valign="top" width="50%">
