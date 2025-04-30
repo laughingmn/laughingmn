@@ -19,20 +19,6 @@ and built domain-driven services sharper than Mihawk’s blade.
 
 🌌 “A line of code is a single frame in a greater animation — make it beautiful.”
 
----
-
-## 🧙‍♂️ My Anime Developer Archetype
-
-| Trait            | Anime Parallel        | Description |
-|------------------|------------------------|-------------|
-| **Strategist**   | Shikamaru Nara 🧠      | Thinks 10 steps ahead when architecting systems. |
-| **Relentless**   | Guts (Berserk) ⚔️     | Refactors legacy codebases with brute will and clear vision. |
-| **Precise**      | Levi Ackerman 🧼       | Demands surgical precision in logic and deployment. |
-| **Calm & Composed** | Giyu Tomioka 🌊    | Troubleshoots chaos like water flowing around stones. |
-| **Seeker of Mastery** | Tanjiro Kamado 🐉 | Always evolving. Always learning. Always building. |
-
----
-
 ## ⚙️ Tech Stack I Fight With
 
 [![My Skills](https://skillicons.dev/icons?i=python,aws,go,kubernetes,docker,postgres&perline=3)](https://skillicons.dev)
