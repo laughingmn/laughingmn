@@ -45,19 +45,7 @@ and built domain-driven services sharper than Mihawk’s blade.
 - 🚀 Orchestrated zero-downtime EKS upgrades like a true shinobi.
 - 📉 Drove cost savings by migrating to modern instance types and cutting log bloat.
 
----
 
-## 📈 Stats & Streaks
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
 
 #### 🖥️ Windows PowerUser
 
