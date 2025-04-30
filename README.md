@@ -62,11 +62,36 @@ and built domain-driven services sharper than Mihawk’s blade.
 
 ---
 
-## 🌐 Let’s Sync Chakra
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
 
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌍 [Portfolio](https://yourwebsite.dev)
+#### 🖥️ Windows PowerUser
+
+Accelerating my workflow and productivity on Windows with the following tools and configurations:
+
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Linux Enthusiast
+
+I love working with Linux, and I'm always exploring new things in the vast open-source world.
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+  </td>
+  </tr>
+  </table>
+</div>
 
 ---
 
