@@ -1,72 +1,65 @@
-# ⚔️ Backend Alchemist — Laughingmn's Arc
+# 👨‍💻 Backend Developer | System Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laughingmn&style=flat-square&color=blue)
 
-🎴 Born in a world of bugs and deadlines, I chose to master the ancient arts of `resilience`, `efficiency`, and `clarity`.
-
-🧬 Architecting distributed systems like a Fullmetal Alchemist — transmuting chaos into clean design.  
-🌀 Shipping features with the calm precision of Gojo sealing cursed regressions.  
-🔮 Python is my cursed technique. Go is my domain expansion.
-
-☁️ I wield **AWS** like a celestial grimoire — invoking Lambda, EC2, and S3 with precision.  
-⛩️ **Kubernetes** is my summoning circle — orchestrating microservices like spirits bound to pods.
-
-⚙️ Led EKS upgrades like a Hokage defending the village, optimized AWS cost like a Marleyan tactician,  
-and built domain-driven services sharper than Mihawk’s blade.
-
-📚 Believer in clean abstractions, immutable truths, and pull requests that tell a story.  
-📈 I scale not just services — but teams, knowledge, and caffeine thresholds.
-
-🌌 “A line of code is a single frame in a greater animation — make it beautiful.”
-
-## ⚙️ Tech Stack I Fight With
-
-[![My Skills](https://skillicons.dev/icons?i=python,aws,go,kubernetes,docker,postgres&perline=10)](https://skillicons.dev)
+I'm a backend engineer with a strong focus on building scalable, maintainable, and efficient distributed systems.  
+I care deeply about clean architecture, developer experience, and operational excellence in production systems.
 
 ---
 
-## 🔥 Recent Battles
+## 🛠️ Core Skills & Expertise
 
-- 🏗️ Designed a distributed Go framework to let teams deploy async microservices in minutes.
-- 🚀 Orchestrated zero-downtime EKS upgrades like a true shinobi.
-- 📉 Drove cost savings by migrating to modern instance types and cutting log bloat.
+- **Backend Development** in Go and Python
+- **Cloud Infrastructure** on AWS (Lambda, EC2, S3, IAM, CloudWatch, etc.)
+- **Container Orchestration** with Kubernetes & Docker
+- **Microservice Architecture** and domain-driven design (DDD)
+- **Infrastructure Automation** and cost optimization
+- **PostgreSQL** and event-driven patterns
 
-### <p align="center">⚙️ My development environment </p>
+---
 
+## 🧱 Projects & Highlights
 
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
+- Designed a distributed Go framework enabling teams to deploy async microservices with minimal boilerplate.
+- Led multiple zero-downtime **EKS upgrades**, including version transitions and workload migrations.
+- Delivered measurable **AWS cost savings** by optimizing instance usage and log retention strategies.
+- Built internal developer tools to improve onboarding, local development, and monitoring workflows.
+
+---
+
+## 🖥️ Development Environment
+
+<table>
   <tr>
-  <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-#### 🖥️ Windows PowerUser
+### Windows PowerUser  
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+- ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
+- ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
+</td>
+<td width="50%" valign="top">
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0078D6?style=flat&logo=Docker&logoColor=white)
+### Linux Enthusiast  
+- ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+- Comfortable with CLI tooling, scripting, and automation
 
-  </td>
-  <td valign="top" width="50%">
-
-#### 🐧 Linux Enthusiast
-
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
-
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-  </td>
-  </tr>
-  </table>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-_“Write your code as if the compiler is Gendo Ikari and you're trying not to disappoint him.”_
+## 🚀 Technologies I Work With
 
-🍜 Thanks for stopping by — may your containers always run and your clusters never crash.
+[![Tech Stack](https://skillicons.dev/icons?i=python,go,aws,kubernetes,docker,postgres&perline=10)](https://skillicons.dev)
+
+---
+
+> _“Good systems scale. Great systems evolve.”_  
+> _— Let's build for change, not just for now._
+
