@@ -1,10 +1,17 @@
+# ⚔️ Backend Alchemist — Laughingmn's Arc
+
+![Profile Views](https://komarev.com/ghpvc/?laughingmn=your-github-username&style=flat-square&color=blue)
+
 🎴 Born in a world of bugs and deadlines, I chose to master the ancient arts of `resilience`, `efficiency`, and `clarity`.
 
-🧬 Architecting distributed systems like a Fullmetal Alchemist transmutes complexity into elegant design.  
+🧬 Architecting distributed systems like a Fullmetal Alchemist — transmuting chaos into clean design.  
 🌀 Shipping features with the calm precision of Gojo sealing cursed regressions.  
 🔮 Python is my cursed technique. Go is my domain expansion.
 
-⚙️ I've led EKS upgrades like a Hokage defending the village, optimized AWS cost like a strategist in Marley,  
+☁️ I wield **AWS** like a celestial grimoire — invoking Lambda, EC2, and S3 with precision.  
+⛩️ **Kubernetes** is my summoning circle — orchestrating microservices like spirits bound to pods.
+
+⚙️ Led EKS upgrades like a Hokage defending the village, optimized AWS cost like a Marleyan tactician,  
 and built domain-driven services sharper than Mihawk’s blade.
 
 📚 Believer in clean abstractions, immutable truths, and pull requests that tell a story.  
