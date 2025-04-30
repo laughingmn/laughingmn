@@ -21,7 +21,7 @@ and built domain-driven services sharper than Mihawk’s blade.
 
 ## ⚙️ Tech Stack I Fight With
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,go,kubernetes,docker,postgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,go,kubernetes,docker,postgres&perline=10)](https://skillicons.dev)
 
 ---
 
