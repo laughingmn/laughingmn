@@ -1,6 +1,6 @@
 # ⚔️ Backend Alchemist — Laughingmn's Arc
 
-![Profile Views](https://komarev.com/ghpvc/?laughingmn=your-github-username&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=laughingmn&style=flat-square&color=blue)
 
 🎴 Born in a world of bugs and deadlines, I chose to master the ancient arts of `resilience`, `efficiency`, and `clarity`.
 
