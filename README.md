@@ -55,7 +55,6 @@ I specialize in designing clean, maintainable architectures, optimizing cloud in
 ### Linux Enthusiast  
 - ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-- Comfortable with CLI tooling, scripting, and automation
 
 </td>
 </tr>
