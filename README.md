@@ -58,7 +58,7 @@ and built domain-driven services sharper than Mihawk’s blade.
 Accelerating my workflow and productivity on Windows with the following tools and configurations:
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-0078D6?style=flat?logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-0078D6?style=flat?logo=amazon-aws&logoColor=orange)
 ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
