@@ -1,10 +1,19 @@
-# 👨‍💻 Backend Developer | System Architect
+# 👨‍💻 Senior Software Craftsman | Building Scalable Systems & Insightful Data Solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laughingmn&style=flat-square&color=blue)
 
-I'm a backend engineer with a strong focus on building scalable, maintainable, and efficient distributed systems.  
-I care deeply about clean architecture, developer experience, and operational excellence in production systems.
+🔧 I’m a seasoned engineer passionate about building scalable backend systems and efficient data platforms.  
+I specialize in designing clean, maintainable architectures, optimizing cloud infrastructure, and enabling fast, reliable software delivery.
 
+---
+
+## 🧩 About Me
+
+- 💻 Backend development with a focus on microservices, observability, and performance.
+- 🧬 Experienced in distributed systems, AWS infrastructure, and Kubernetes orchestration.
+- 📊 Proficient in data analysis using `pandas`, enabling actionable insights and automation in ETL workflows.
+- ⚙️ Advocate for domain-driven design, clean code, and pragmatic problem solving.
+- 📈 I enjoy improving systems, processes, and team productivity with thoughtful engineering practices.
 ---
 
 ## 🛠️ Core Skills & Expertise
@@ -14,7 +23,7 @@ I care deeply about clean architecture, developer experience, and operational ex
 - **Container Orchestration** with Kubernetes & Docker
 - **Microservice Architecture** and domain-driven design (DDD)
 - **Infrastructure Automation** and cost optimization
-- **PostgreSQL** and event-driven patterns
+- **Data:** pandas, PostgreSQL
 
 ---
 
@@ -56,7 +65,7 @@ I care deeply about clean architecture, developer experience, and operational ex
 
 ## 🚀 Technologies I Work With
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,go,aws,kubernetes,docker,postgres&perline=10)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,go,aws,kubernetes,docker,postgres,pandas&perline=10)](https://skillicons.dev)
 
 ---
 
