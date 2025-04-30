@@ -35,15 +35,7 @@ and built domain-driven services sharper than Mihawk’s blade.
 
 ## ⚙️ Tech Stack I Fight With
 
-| Tech | Badge |
-|------|-------|
-| **Go** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| **AWS** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws) |
-| **Kubernetes** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Docker** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Microservices** | ![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Redis** | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Apache Kafka** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka) |
+[![My Skills](https://skillicons.dev/icons?i=python,aws,go,kubernetes,docker,postgres&perline=3)](https://skillicons.dev)
 
 ---
 
