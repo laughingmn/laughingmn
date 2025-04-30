@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Software Craftsman | Building Scalable Systems & Insightful Data Solutions
+# 👨‍💻 Software Craftsman | Building Scalable Systems & Insightful Data Solutions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laughingmn&style=flat-square&color=blue)
 
